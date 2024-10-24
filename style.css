@@ -437,7 +437,7 @@ nav {
 
 #page5 {
 
-    height: 100vh;
+    height: 80vh;
     width: 100%;
 }
 
@@ -536,7 +536,7 @@ nav {
 
 #footer-bottom {
     border-top: 1px solid #c9c4c4;
-    height: 10vh;
+    height: 0vh;
     width: 100%;
 }
 
